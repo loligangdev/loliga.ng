@@ -1,0 +1,318 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+    background-color: #1D1E28;
+    /* background-image: url(https://images7.alphacoders.com/102/thumb-1920-1024253.png); */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    border-top: 6px #AD91FF solid !important;
+    font-size: 16px;
+}
+
+.nav-link {
+     font-size: 14px !important;
+     background: transparent !important;
+     font-family: Lato, sans-serif !important;
+     text-transform: capitalize !important;
+ }
+ .nav-link:hover {
+     background: transparent !important;
+     color: #AD91FF !important;
+     font-weight: bold !important;
+ }
+
+ .login-btn {
+     border: 2px solid #AD91FF !important;
+     font-size: 10px !important;
+ }
+ .login-btn:hover {
+     background: #AD91FF !important;
+ }
+.navbar {
+    box-shadow: none !important
+}
+
+.navbar-brand {
+    font-size: 25px !important
+}
+
+.navbar-toggler-icon {
+    color: #fff !important
+}
+
+.btn {
+    border-radius: 10px !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+}
+
+.btn-primary {
+    background-color: #AD91FF!important
+}
+.btn-secondary {
+    background-color: #2C2F33 !important
+}
+.heading {
+    padding: 160px 50px !important;
+    text-align: center !important;
+    color: #fff !important;
+    background-position: bottom !important;
+    background-size: 300% !important;
+    background-repeat: no-repeat !important;
+}
+
+.title {
+    line-height: 90px !important;
+    margin-bottom: -2px !important;
+    font-size: 36px !important
+}
+
+.subtitle {
+    color: rgba(255, 255, 255, 0.685) !important;
+    font-size: 16px !important;
+    font-family: 'Lato', sans-serif;
+}
+
+
+.features {
+    text-align: center !important;
+    background: #AD91FF !important;
+    padding: 60px 50px !important;
+    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
+    background-position: bottom !important;
+    background-size: 200% !important;
+    background-repeat: no-repeat !important;
+}
+.features .title {
+    font-size: 40px !important;
+    color: #ffffff !important;
+    line-height: 70px !important;
+}
+
+.features .subtitle {
+    font-size: 20px !important;
+    color: #a2a8bd;
+}
+
+.features .card-body {
+    text-align: left !important;
+}
+
+.features .card-title {
+    margin: 0 0 -3px !important;
+}
+.cards {
+    margin-top: 30px !important;
+}
+
+.card {
+    border-radius: 5px !important;
+    box-shadow: none !important;
+}
+
+.card-title {
+    font-size: 28px !important;
+    font-weight: 600 !important;
+    color: #AD91FF !important;
+}
+
+.statistics {
+    text-align: center !important;
+    padding-top: 300px !important;
+}
+
+.statistics .card-body{
+    padding: 0 !important;
+    height: 280 !important;
+    width: 332 !important;
+    max-height: 280 !important;
+    max-width: 332 !important;
+}
+
+.statistics .title {
+    font-size: 40px !important;
+    color: #ffffff !important;
+    line-height: 70px !important;
+}
+
+.statistics .subtitle {
+    font-size: 20px !important;
+    color: #a2a8bd;
+}
+
+.card.statistic {
+    background: transparent !important;
+    box-shadow: none !important;
+    color: #f7f7f7 !important;
+}
+
+
+.page_end {
+    background-image: url("../assets/wavy-light-by-nouridio.svg") !important;
+    background-position: bottom !important;
+    background-size: 200% !important;
+    background-repeat: no-repeat !important;
+}
+.start {
+    padding: 60px 50px !important
+}
+
+.start .card {
+    background: transparent !important;
+    color: #f6f9ff !important;
+}
+
+.features .card {
+    background: #1D1E28;
+    border-radius: 22px !important;
+    border: 4px solid #AD91FF;
+}
+.features .card-text {
+color: rgba(255, 255, 255, 0.46) !important
+}
+
+.features .card-body {
+    padding: 40px 40px 40px 30px !important;
+}
+
+.navbar-toggler-icon {
+    color: #fff !important
+}
+.footer {
+    text-align: center !important;
+    padding: 5px 6px !important;
+    color: #ecf2ff;
+    padding: 30px 30px !important
+}
+
+.footer .nouridio {
+    font-family: 'Montserrat' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    line-height: 5px !important;
+    letter-spacing: 0.15em !important;
+    font-variant: small-caps !important;
+}
+
+.footer .nouridio a {
+    color: #AD91FF !important;
+    text-decoration: none !important;
+}
+
+.footer .bot-footer {
+    text-align: center !important;
+    color: #a2a8bd !important
+}
+
+.join-button-cont {
+    margin: 10px 0 0;
+}
+
+.di{background:rgba(15,15,15,.6);border:1px solid rgba(45,45,45,0);border-radius:3px;padding:10px;width:410px;margin:30px auto 0 40px;text-align: center !important;}
+
+.di-title{color:#8e9297;font-weight:600;font-size:12px;line-height:16px;margin-top:0;margin-bottom:8px;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase;white-space:nowrap}
+
+.di-icon{background-clip:padding-box;background-position:50%;background-size:100% 100%;border-radius:15px;flex:0 0 auto;height:50px;margin-right:10px;width:50px}
+
+.di-flex{display:flex;flex-flow:row nowrap}
+
+.di-details{align-items:stretch;flex:1 1 auto;flex-direction:column;flex-wrap:nowrap;justify-content:center;max-width:223px}
+
+.di-details div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+.di-d-name{color:#f6f6f6;font-weight:600;font-size:16px;line-height:20px;margin-bottom:4px}
+
+.di-d-details{color:#72767d;font-weight:600;font-size:12px;line-height:16px}
+
+.di-d-details i{border-radius:50%;display:inline-block;height:8px;margin-right:4px;width:8px}
+
+.di-d-details span{margin-right:8px;outline:0;text-align: left}
+
+.di-d-d-offline{background-color:#747f8d}
+
+.di-d-d-online{background-color:#43b581}
+
+.di-button:hover{color:#fff;background-color:#3ca374}
+
+.di-button{align-items:center;align-self:center;background-color:#43b581;border:none;border-radius:3px;color:#fff;cursor:pointer;display:flex;font-size:14px;font-weight:500;height:40px;justify-content:center;line-height:20px;margin-left:10px;min-width:90px;outline:0;padding:2px 0;width:auto;transition:background-color .17s ease,color .17s ease;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;position:relative;top:-11px}@media screen and (max-width:450px),screen and (min-width:768px) and (max-width:900px){.di{width:auto;max-width:390px}.di-content{flex-wrap:wrap}.di-details{max-width:280px}.di-button{margin-left:0;margin-right:0;margin-top:10px;width:100%}}
+
+.pleaseendme {
+    display: block;
+    margin: auto;
+    padding: initial !important;
+    text-align: left !important;
+}
+
+img:hover {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 0.5s;
+
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+
+.social-container {
+    font-family: "font awesome 5 brands";
+    font-size: 1.2em;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+    margin-block-start: 0.33em;
+    margin-block-end: 0.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.icon {
+    cursor:pointer;
+    margin-left:1.5vh;
+}
+
+.icon:hover:before {
+    animation: in .8s ease-in-out normal;
+}
+
+@keyframes in {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(360deg);}
+}
+
+@keyframes out {
+    from {transform: rotate(360deg);}
+    to {transform: rotate(0deg);}
+}
+
+.icon::before {
+    display:inline-block;
+    animation: out .8s ease-in-out normal;
+}
+
+.twitter::before {
+    content: "\f099";
+}
+
+.twitch::before {
+    content: "\f1e8";
+}
+
+.discord::before {
+    content: "\f392";
+}
