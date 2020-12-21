@@ -20,27 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc613a3d-d814-44ec-bbe4-7f3bed2d7803" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easter/whale/water.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/BotLogo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/BotLogoWord.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/menuIcon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/wavy-blurple-by-nouridio.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/wavy-dark-by-nouridio.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/wavy-light-by-nouridio.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/wavy-purple-by-nouridio.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/now-ui-kit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/now-ui-kit.min.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/assets/menuIcon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/assets/wavy-dark-by-nouridio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/assets/wavy-light-by-nouridio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/css/now-ui-kit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/css/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/js/now-ui-kit.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/BotLogo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/BotLogoWord.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/wavy-blurple-by-nouridio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/wavy-purple-by-nouridio.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,10 +58,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/squashy" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\-  !Repo GitHub\loligangdev.github.io\squashy" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,6 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608380313135</updated>
       <workItem from="1608380313192" duration="8423000" />
+      <workItem from="1608555038955" duration="977000" />
     </task>
     <servers />
   </component>
@@ -82,12 +95,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="735" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608381460882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="735" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608381460882" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608555416677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608555416677" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1608383729989">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
