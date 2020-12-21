@@ -20,20 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc613a3d-d814-44ec-bbe4-7f3bed2d7803" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/squashy/assets/menuIcon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squashy/assets/wavy-dark-by-nouridio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squashy/assets/wavy-light-by-nouridio.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squashy/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squashy/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squashy/css/now-ui-kit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squashy/css/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squashy/js/now-ui-kit.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/BotLogo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/BotLogoWord.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/wavy-blurple-by-nouridio.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/wavy-purple-by-nouridio.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608380313135</updated>
       <workItem from="1608380313192" duration="8423000" />
-      <workItem from="1608555038955" duration="977000" />
+      <workItem from="1608555038955" duration="1189000" />
     </task>
     <servers />
   </component>
