@@ -1,7 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif !important;
-    background-color: #1D1E28;
-    /* background-image: url(https://images7.alphacoders.com/102/thumb-1920-1024253.png); */
+    background-image: url("squashy.jpg");
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;

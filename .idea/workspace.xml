@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc613a3d-d814-44ec-bbe4-7f3bed2d7803" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/squashy/css/squashy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/squashy/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/squashy/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +49,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/squashy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/squashy/css" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\-  !Repo GitHub\loligangdev.github.io\squashy\css" />
+      <recent name="D:\-  !Repo GitHub\loligangdev.github.io\css" />
       <recent name="D:\-  !Repo GitHub\loligangdev.github.io\squashy" />
     </key>
   </component>
@@ -64,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608380313135</updated>
       <workItem from="1608380313192" duration="8423000" />
-      <workItem from="1608555038955" duration="1189000" />
+      <workItem from="1608555038955" duration="2390000" />
     </task>
     <servers />
   </component>
