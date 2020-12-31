@@ -62,6 +62,17 @@ body {
     background-repeat: no-repeat !important;
 }
 
+.heading2 {
+    padding: 160px 50px !important;
+    text-align: center !important;
+    color: #fff !important;
+    background-image: url("squashy.jpg");
+    background-size: 30%;
+    background-position: bottom !important;
+    background-size: 300% !important;
+    background-repeat: no-repeat !important;
+}
+
 .title {
     line-height: 90px !important;
     margin-bottom: -2px !important;
@@ -315,6 +326,10 @@ img:hover {
 
 .discord::before {
     content: "\f392";
+}
+
+.youtube::before {
+    content: "\f167";
 }
 
 .arrow {
