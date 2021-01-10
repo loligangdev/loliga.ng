@@ -315,7 +315,6 @@ color: rgba(255, 255, 255, 0.46) !important
 }
 
 .arrow {
-    position: absolute;
     bottom: 20px;
     left: 50%;
     margin-left: -11px;
