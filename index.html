@@ -1,105 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/now-ui-kit.css">
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,700,800,900&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800,900&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,800,900&display=swap" rel="stylesheet">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/now-ui-kit@1.3.0/assets/css/now-ui-kit.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/discordinvite.css" />
     <link rel="icon" href="favicon.ico" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" crossorigin="anonymous" />
     <title>Loligang</title>
-</head>
-<body>
-<nav class="navbar navbar-expand-lg bg-transparent">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <img src="assets/menuIcon.svg" width="20px" height="20px" style="max-width: none !important;">
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: 20px !important">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#/">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#squashy">SquashyBoy</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#about">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="https://twitter.com/geshii">Credit</a>
-            </li>
-        </ul>
-    </div>
-</nav>
-<div class="heading" id="loligang" name="loligang">
-    <img src="https://cdn.discordapp.com/attachments/670944314418921485/789839920457973790/EllieSquare.png" width="150" height="150">
-    <h1 class="display-5 title">Welcome to Loligang !</h1>
-    <p class="subtitle">ロリガングへようこそ～ !</p>
-    <div class="social-container">
-        <span class="icon twitter" style="margin-left:0px;" onclick="location=('https://twitter.com/loligangdesu');"></span>
-        <span class="icon twitch" onclick="location=('https://www.twitch.tv/loligangdesu');"></span>
-    </div>
+  </head>
+  <body>
+    <nav class="navbar">
+      <a class="nav-link" href="#home">HOME</a>
+      <a class="nav-link" href="#squashy">SQUASHYBOY</a>
+      <a class="nav-link" href="#about">ABOUT US</a>
+      <a class="nav-link" href="https://github.com/loligangdev/loliga.ng"
+        >SOURCE</a
+      >
+    </nav>
+
+    <div class="heading" id="home">
+      <img src="assets/EllieSquare.png" width="20%" height="20%" />
+      <h1 class="title">Welcome&nbsp;to&nbsp;Loligang!</h1>
+      <p class="subtitle">ロリガングへようこそ～&nbsp;!</p>
+
+      <div class="social-ctn">
+        <span
+          class="fa fa-twitter icon"
+          style="margin-left: 0"
+          onclick="window.location.href='https://twitter.com/loligangdesu';"
+        ></span>
+        <span
+          class="fa fa-twitch icon"
+          onclick="window.location.href='https://www.twitch.tv/loligangdesu';"
+        ></span>
+      </div>
+      <!--
     <div class="join-button-cont row">
         <div class="pleaseendme">
-        <div class="di grow">
+            <div class="di grow">
             <h5 class="di-title">You've been invited to join a server</h5>
             <div class="di-content di-flex">
-                <div class="di-icon" style="background-image: url(&quot;https://cdn.discordapp.com/icons/508041621644902420/a_2641270658889214382ea432fb7f7cb6.webp&quot;);">
+                <div class="di-icon" style="background-image: url('https://cdn.discordapp.com/icons/508041621644902420/a_2641270658889214382ea432fb7f7cb6.webp');">
                 </div>
                 <div class="di-details di-flex"><div class="di-d-name">Loligang</div>
                     <div class="di-d-details"><i class="di-d-d-online"></i>
                         <span>1,500 Online</span>
                         <i class="di-d-d-offline"></i>
                         <span>4,389 Members</span>
-                    </div
+                    </div>
                 </div>
                 <div class="di-break">
                 </div>
-
+                </div>
+                <a href="https://discord.gg/3g8ZaeH" target="_blank" rel="noopener noreferrer" type="button" class="di-button">Join</a>
+                </div>
             </div>
-            <a href="https://discord.gg/3g8ZaeH" target="_blank" rel="noopener noreferrer" type="button" class="di-button">Join</a>
-        </div>
         </div>
     </div>
-    </div>
-<br /><br /><br />
-<a class="arrow" href="#squashy"></a>
-    <br /><br /><br /><br /><br /><br /><br /><br />
-<div>
+-->
 
-</div>
-</div>
-<div class="heading2" id="squashy" name="squashy">
-    <img src="https://yt3.ggpht.com/ytc/AAUvwni7mVCCF2BIZ6opOf2ulj3zxOQnlZrndmYIuSTdKQ=s88-c-k-c0x00ffffff-no-rj" width="150" height="150" style="border-radius: 50%;">
-    <h1 class="display-5 title">Squashy's zone</h1>
-    <div class="social-container">
-        <span class="icon twitter" style="margin-left:0px;" onclick="location=('https://twitter.com/squashydotboy')"></span>
-        <span class="icon youtube" onclick="location=('https://www.youtube.com/channel/UCR1gEMJierx77V2Dna8Ka_w'"></span>
-        <span class="icon twitch" onclick="location=('https://www.twitch.tv/squashyboii')"></span>
+      <!-- copy pasted from https://github.com/Aegis7Gaming/Discord-Invite-JS-HTML-CSS lol-->
+      <script src="js/discordinvite.js"></script>
+      <script>
+        discordInvite.init({
+          inviteCode: "bNw4EVpj",
+          title: "Squashy's Server",
+        });
+        discordInvite.render();
+      </script>
+      <div id="discordInviteBox"></div>
+      <br />
+      <a class="arrow" href="#squashy"></a>
     </div>
-    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-    <div>
-    </div>
-</div>
-</div>
-<div class="heading" id="about" name="about">
-    <h1 class="display-5 title">About Loligang</h1><br /><br /><br /><br /><br />
-    <p>Originally a Discord server created for the Youtube channel Squashyboy, we are now a community of anime, custom keyboard and osu! enthusiasts with a sizable amount of friendly active members! We offer a variety of chat channels for different interests, from Minecraft to V-Tubers to technology to food!
-</p>
-    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-    <div>
-    </div>
-</div>
-</div>
 
+    <div class="heading2" id="squashy">
+      <img
+        src="https://yt3.ggpht.com/ytc/AAUvwni7mVCCF2BIZ6opOf2ulj3zxOQnlZrndmYIuSTdKQ=s88-c-k-c0x00ffffff-no-rj"
+        width="20%"
+        height="20%"
+        style="border-radius: 50%"
+      />
+      <h1 class="title">Squashy's zone</h1>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<script src="js/now-ui-kit.min.js"></script>
-</body>
+      <div class="social-ctn">
+        <span
+          class="fa fa-youtube icon"
+          style="margin-left: 0"
+          onclick="window.location.href='https://www.youtube.com/channel/UCR1gEMJierx77V2Dna8Ka_w';"
+        ></span>
+        <span
+          class="fa fa-twitter icon"
+          onclick="window.location.href='https://twitter.com/squashydotboy';"
+        ></span>
+        <span
+          class="fa fa-instagram icon"
+          onclick="window.location.href='https://www.instagram.com/squashy.boy';"
+        ></span>
+        <span
+          class="fa fa-twitch icon"
+          onclick="window.location.href='https://www.twitch.tv/squashyboii';"
+        ></span>
+      </div>
+    </div>
+
+    <div class="heading" id="about">
+      <h1 class="title">About Loligang</h1>
+
+      <div class="about-ctn">
+        <p>
+          Originally a Discord server created for the Youtube channel
+          Squashyboy, we are now a community of anime, custom keyboard and osu!
+          enthusiasts with a sizable amount of friendly active members! We offer
+          a variety of chat channels for different interests, from Minecraft to
+          V-Tubers to technology to food!
+        </p>
+
+        <iframe
+          src="https://discord.com/widget?id=508041621644902420&theme=dark"
+          width="350"
+          height="500"
+          allowtransparency="true"
+          frameborder="0"
+          sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"
+        ></iframe>
+      </div>
+    </div>
+  </body>
 </html>
